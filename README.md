@@ -2,6 +2,8 @@
 
 A little app I made using Elm to demo game-board style movement.
 
+![Elm demo](/ScreenShot.jpg?raw=true)
+
 ## Run project locally:
 
 1.  Install [Elm](https://guide.elm-lang.org/install.html)
