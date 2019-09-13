@@ -16,6 +16,4 @@ So this started out as an assignment for a job application. While I usually woul
 
 Here is the text of the assignment I was working toward:
 
-```
-We take great care to produce well-structured, well-tested, maintainable code. We’d love to see if you can do this too. Create an application that runs in any modern web browser in which you can simulate controlling a robot. The robot will be placed on a grid of 5x5. Supply controls that let you move the robot forwards in the direction it is facing. Through the same controls you can rotate the robot in place to face any cardinal direction. Use any Javascript framework you’re comfortable with. Write your code in a git repository and submit a tarball of your git repository when you submit your application.
-```
+> We take great care to produce well-structured, well-tested, maintainable code. We’d love to see if you can do this too. Create an application that runs in any modern web browser in which you can simulate controlling a robot. The robot will be placed on a grid of 5x5. Supply controls that let you move the robot forwards in the direction it is facing. Through the same controls you can rotate the robot in place to face any cardinal direction. Use any Javascript framework you’re comfortable with. Write your code in a git repository and submit a tarball of your git repository when you submit your application.
